@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//mfarhan6918.github.io/tailwind_react_agency/static/css/main.4ac64c0a.css",
+    "main.js": "//mfarhan6918.github.io/tailwind_react_agency/static/js/main.dde9ee92.js",
+    "static/media/1 (1).png": "//mfarhan6918.github.io/tailwind_react_agency/static/media/1 (1).e32eb275fc7c632aa740.png",
+    "index.html": "//mfarhan6918.github.io/tailwind_react_agency/index.html",
+    "main.4ac64c0a.css.map": "//mfarhan6918.github.io/tailwind_react_agency/static/css/main.4ac64c0a.css.map",
+    "main.dde9ee92.js.map": "//mfarhan6918.github.io/tailwind_react_agency/static/js/main.dde9ee92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4ac64c0a.css",
+    "static/js/main.dde9ee92.js"
+  ]
+}
